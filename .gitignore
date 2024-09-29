@@ -14,5 +14,6 @@ docs/
 .env
 
 .DS_Store
-/zkout
+zkout/
 
+broadcast/
